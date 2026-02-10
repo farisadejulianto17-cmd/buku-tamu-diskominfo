@@ -5,7 +5,7 @@
 @section('content')
 <div class="top-bar">
     <div>
-        <h3 class="fw-bold mb-0">Dashboard Kunjunga</h3>
+        <h3 class="fw-bold mb-0">Dashboard Kunjungan</h3>
         <p class="text-muted small">Ringkasan data buku tamu Diskominfo</p>
     </div>
     <div class="user-profile">
